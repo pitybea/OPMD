@@ -1,4 +1,4 @@
-# OPMD (optimizers, parameters, models, datasets)
+# OPMD (optimizers, parameters, models, and datasets)
 an idea for distributed machine learning 
 
 

@@ -1,4 +1,4 @@
-# DMOP
+# OPMD (optimizers, parameters, models, datasets)
 an idea for distributed machine learning 
 
 
